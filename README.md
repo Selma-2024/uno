@@ -1,39 +1,40 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# ETHU MOOD 🎯
 
 
-## Basic Details
-### Team Name: [Name]
+## (https://v0-mood-analysis-website-chi.vercel.app/)
+Website for analyzing the mood
+### Team Name: UNO
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: SELMA ANNA SAJU - MAR BASELIOUS CHRISTIAN COLLEGE OF ENGINEERING AND TECHNOLOGY,PEERMADE,KUTTIKANAM,IDUKKI
+- Member 2: JOEL K SONY - MAR BASELIOUS CHRISTIAN COLLEGE OF ENGINEERING AND TECHNOLOGY,PEERMADE,KUTTIKANAM,IDUKKI
+
 
 ### Project Description
-[2-3 lines about what your project does]
+This is a website created in Vercel. It is a useless project which analyze the mood of a person by uploading an image
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+This is a creative, fun solution which is mainly 'useless'
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+the mood is predicted only if we cheer up the website
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+-  JavaScript, HTML, CSS  
+- Next.js
+- OpenAI API (planned), Tailwind CSS  
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- vercel 
+
+
+
+For Hardware: nil
 
 ### Implementation
 For Software:
@@ -60,38 +61,28 @@ For Software:
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
+For Hardware:nil
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+(https://drive.google.com/file/d/1_JWDONyShKlvf4Q6MoA0y5w4HTvzX47O/view?usp=sharing)
 
-![Build](Add photos of build process here)
-*Explain the build steps*
 
-![Final](Add photo of final product here)
-*Explain the final build*
+(https://drive.google.com/file/d/151TnujVOWHjuVJ7cWYJ8ih8rmPxnRChe/view?usp=sharing)
+
+https://drive.google.com/file/d/1xW8lpyTCw-eIHt4yVDiNh4bszzpeLVFd/view?usp=sharing
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/10rjSPrQnfvGfWqvqirebhdERdMJ24WMd/view?usp=sharing
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
+   SELMA ANNA SAJU:EDITOR
+   JOEL K SONY:IMPLEMENTOR
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
