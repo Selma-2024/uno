@@ -39,10 +39,15 @@ For Hardware: nil
 ### Implementation
 For Software:
 # Installation
-[commands]
+git clone https://github.com/tinkerhub/useless_project_temp.git
+cd useless_project_temp
+npm install
+
+
 
 # Run
-[commands]
+npm run dev
+
 
 ### Project Documentation
 For Software:
