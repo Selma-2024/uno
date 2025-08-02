@@ -67,8 +67,6 @@ https://drive.google.com/file/d/1xW8lpyTCw-eIHt4yVDiNh4bszzpeLVFd/view?usp=shari
 # Video
 https://drive.google.com/file/d/10rjSPrQnfvGfWqvqirebhdERdMJ24WMd/view?usp=sharing
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
    SELMA ANNA SAJU:EDITOR
